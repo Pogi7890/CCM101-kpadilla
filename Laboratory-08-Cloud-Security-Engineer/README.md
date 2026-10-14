@@ -29,9 +29,3 @@ sudo ufw status numbered
 ## Skills Learned
 
 This activity improved my ability to deploy a test service, configure network access restrictions, and inspect firewall rules. I also gained a better understanding of defense in depth, least privilege, and the importance of verifying security configurations after implementation.
-
-## Screenshots
-
-- `screenshots/vulnerable-app-running.png`
-- `screenshots/firewall-activated.png`
-- `screenshots/firewall-port-allowed.png`
