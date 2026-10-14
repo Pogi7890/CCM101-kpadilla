@@ -40,5 +40,3 @@ The five time fields have the following meanings:
 - **Day of Month (*):** Runs every day of the month.
 - **Month (*):** Runs every month.
 - **Day of Week (*):** Runs every day of the week.
-
-This schedule runs the backup script every day at 2:00 AM.
